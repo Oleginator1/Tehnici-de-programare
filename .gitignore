@@ -1,1 +1,6 @@
-__pycache__/
+# Build artifacts (Compiled executables)
+*.exe
+
+# Local development environment configurations
+.vscode/
+__pycache__
