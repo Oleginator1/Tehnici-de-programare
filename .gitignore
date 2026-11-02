@@ -4,3 +4,4 @@
 # Local development environment configurations
 .vscode/
 __pycache__
+.pytest_cache
